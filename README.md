@@ -11,6 +11,9 @@ We explore two forecasting models:
 
 ## 🗂 Dataset
 
+📁 Data Source:
+
+Tourist arrival data (2023 onward, weekly breakdown) was obtained from the Sri Lanka Tourism Development Authority (SLTDA)’s official weekly arrival reports.
 - Contains daily tourist arrivals from `2023-01-01` to `2025-06-30`
 - Columns:
   - `ds`: Date
